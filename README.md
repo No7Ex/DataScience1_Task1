@@ -1,7 +1,28 @@
 # DataScience1_Task1
-Source code for Task 1 of module "Data Science 1 SoSe2022"
+https://share.streamlit.io/no7ex/datascience1_task1/main/main.py
 
-Refs:
+Python Implementation of Apriori Algorithm 
+==========================================
+
+## Streamlit
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/no7ex/datascience1_task1/main/main.py) 
+
+
+
+
+
+
+## Acknowledgements
+
+The code implements the following source
 https://archive.ics.uci.edu/ml/machine-learning-databases/postoperative-patient-data/
 
-Code was followed according to above mentioned reference. Adjustments have been made to compile correctly into streamlit.
+Code was followed according to above mentioned source. Adjustments have been made to accomodate task requirements and deploy correctly with streamlit.
+
+## Files
+main.py (Source code)
+post-operative.csv (DataSet)
+readme.txt (This file)
+requirements.txt (Library reqs)
+
+The Dataset used can be found here: https://archive-beta.ics.uci.edu/ml/datasets/post+operative+patient
