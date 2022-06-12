@@ -20,7 +20,7 @@ Code was followed according to above mentioned source. Adjustments have been mad
 ------
 1. main.py (Source code)
 2. post-operative.csv (DataSet)
-3. readme.txt (This file)
+3. readme.md (This file)
 4. requirements.txt (Library reqs)
 
 The Dataset used can be found here: https://archive-beta.ics.uci.edu/ml/datasets/post+operative+patient
