@@ -1,7 +1,4 @@
-# DataScience1_Task1
-https://share.streamlit.io/no7ex/datascience1_task1/main/main.py
-
-Python Implementation of Apriori Algorithm 
+Python Implementation of FPGrowth Algorithm 
 ==========================================
 
 ## Streamlit
